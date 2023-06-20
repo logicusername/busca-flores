@@ -173,8 +173,12 @@ p {
   font-size: 30;	
   text-align: center;
 }
+.partidas-re{
+  display: flex;
+}
 .partidas{
   margin-top: 200px;
+  margin-left: -250px;
 }
 .partidas div{
   border: 2px solid #444971;
@@ -209,7 +213,7 @@ p {
 .reglas{
   border: 2px solid #444971;
   border-radius: 20px;
-  margin-left: 400px;
+  margin-left: 200px;
   margin-top: 200px;
   width: 400px;
   height: 550px;
